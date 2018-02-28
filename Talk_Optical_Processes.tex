@@ -35,15 +35,33 @@
 \end{frame}
 
 \subsection{Principles of cooled laser ablation}
-\begin{frame}
+\begin{frame}{Toto}
 
 \end{frame}
 
-\begin{frame}{Ablation after \emph{m} pulses}
+\begin{frame}{Ablation after \emph{m} pulses : Proof}
 
-\begin{block}
+\onslide<1->
+$$
+T_c < T_{material} = T_0 + \Delta T + \frac{\Delta T}{\sqrt{1+\frac{\tau_R}{\tau_0}}} + \frac{\Delta T}{\sqrt{1+\frac{\tau_R}{\tau_0}}} + ...
+$$
+\onslide<2->
+$$
+\Leftrightarrow T_C = T_0 + \Delta T + (m-1) \frac{\Delta T}{\sqrt{1+\frac{\tau_R}{\tau_0}}}
+$$
+\onslide<3->
+$$
+\Leftrightarrow T_c = T_0 + \Delta T + (m-1) \delta T
+$$
+\onslide<4->
+$$
+\Leftrightarrow m-1 = \frac{T_c - T_0 - \Delta T}{\delta T}
+$$
+\onslide<5->
+\begin{equation}
+\Leftrightarrow \boxed{m = \frac{T_c - T_0 - \Delta T + \delta T}{\delta T}}
+\end{equation}
 
-\end{block}
 
 \end{frame}
 
@@ -71,7 +89,11 @@
 
 
 \subsection{Results}
-\begin{frame}
+\begin{frame}{Evolution of the temperature of the material at the impact point}
+
+\end{frame}
+
+\begin{frame}{Evolution of the temperature of the material in the bulk}
 
 \end{frame}
 
