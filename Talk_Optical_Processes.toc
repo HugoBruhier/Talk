@@ -1,5 +1,10 @@
 \beamer@endinputifotherversion {3.36pt}
 \select@language {english}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{MatLab simulation}{4}{0}{2}
-\beamer@sectionintoc {3}{Conclusion}{5}{0}{3}
+\beamer@subsectionintoc {1}{1}{What is laser ablation ?}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Principles of cooled laser ablation}{4}{0}{1}
+\beamer@sectionintoc {2}{MatLab simulation}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Choices of programmation}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Results}{13}{0}{2}
+\beamer@sectionintoc {3}{Application of this ablation : medical ablation}{14}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{15}{0}{4}
