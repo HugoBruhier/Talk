@@ -36,24 +36,33 @@
 
 \section{Introduction}
 \subsection{What is laser ablation ?}
-\begin{frame}{}
+\begin{frame}
+
+\begin{figure}[H]
+\centering
+\includegraphics[height=160px]{laser_ablation.jpg}
+\caption{Laser ablation}
+\end{figure}
 
 \end{frame}
 
 \subsection{Principles of cooled laser ablation}
 \begin{frame}{The "Toy model"}
+\onslide<1->
 One pulse instantaneous temperature rise:
 $
 \Delta T \propto E_p
 $
 \\
 \vspace{15px}
+\onslide<2->
 Material cools at:
 $
 \frac{1}{\sqrt{1+t/\tau_0}}
 $
 \\
 \vspace{15px}
+\onslide<3->
 Temperature of the surface encountered by the (n+1)$^\text{th}$ pulse:
 \center{$
 T_n+1 = T_n+\delta T
@@ -84,9 +93,9 @@ $$
 \Leftrightarrow m-1 = \frac{T_c - T_0 - \Delta T}{\delta T}
 $$
 \onslide<5->
-\begin{equation}
+$$
 \Leftrightarrow \boxed{m = \frac{T_c - T_0 - \Delta T + \delta T}{\delta T}}
-\end{equation}
+$$
 
 
 \end{frame}
@@ -117,6 +126,7 @@ $$
 \subsection{Results}
 \begin{frame}
 
+
 \begin{figure}[H]
 \centering
 \includegraphics[height=150px]{temperature_evolution_of_the_impact_point.png}
@@ -127,17 +137,56 @@ $$
 
 \begin{frame}
 
+\begin{figure}[H]
+\centering
+\includegraphics[height=160px]{temperature_evolution_of_the_impact_point_2.png}
+\caption{Differents values of $E_p$ and $\tau_R$}
+\end{figure}
+
 \end{frame}
 
-\section{Application of this ablation : medical ablation}
-\begin{frame}
+\section{Application of this ablation : Dentin Ablation}
+\begin{frame}{What is "Dentin"}
+
+\begin{figure}[H]
+\centering
+\includegraphics[height=160px]{dentine.png}
+\caption{Scheme of the structure of a teeth}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}{Dentin Ablation}
+
+\begin{figure}[H]
+\centering
+\includegraphics[height=150px]{cooling_system.png}
+\caption{The cooling system of the dentin ablation}
+\end{figure}
+
+
+\end{frame}
+
+\begin{frame}{Results}
+
+\begin{figure}[H]
+\centering
+\includegraphics[height=150px]{dentine_impacts.png}
+\caption{Ablation of the dentin}
+\end{figure}
 
 \end{frame}
 
 \section{Conclusion}
 
-\begin{frame}
-
+\begin{frame}{Conclusion}
+\large
+\begin{itemize}
+\item Young process which open new applications of laser ablation,
+\item Impacts with reduced collateral damages,
+\item Low energy of laser,
+\item The theory is young and "too" simple.
+\end{itemize}
 \end{frame}
 
 \section*{Thanks}
@@ -146,4 +195,12 @@ $$
 \huge{Thank you for your attention}
 \end{frame}
 
+\begin{frame}{References}
+
+\begin{itemize}
+\item "Ablation-cooled material removal with ultrafast bursts of pulses" - Can Kerse, et. al.
+\item "Laser ablation of dentin and its medical application" - Quang Tri Le
+\end{itemize}
+
+\end{frame}
 \end{document}

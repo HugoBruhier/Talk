@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.1)  19 MAR 2018 20:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.1)  19 MAR 2018 22:22
 entering extended mode
 **./Talk_Optical_Processes.tex
 (Talk_Optical_Processes.tex
@@ -1262,7 +1262,7 @@ lator\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (Talk_Optical_Processes.nav)
 Overfull \hbox (14.08885pt too wide) in paragraph at lines 26--26
-[]\T1/cmss/m/n/6 0/11[]  
+[]\T1/cmss/m/n/6 0/14[]  
  []
 
 <Logo_TSE.png, id=62, 196.0926pt x 240.6591pt>
@@ -1274,7 +1274,7 @@ Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line
 31.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 1/11[] 
+[]\T1/cmss/m/n/6 1/14[] 
  []
 
 [1{C:/Users/Sacha GRELET RIOUT/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.ma
@@ -1289,33 +1289,40 @@ Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line
 35.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 2/11[] 
+[]\T1/cmss/m/n/6 2/14[] 
  []
 
 [2
 
 ]
+<laser_ablation.jpg, id=112, 451.6875pt x 335.2525pt>
+File: laser_ablation.jpg Graphic file (type jpg)
+<use laser_ablation.jpg>
+Package pdftex.def Info: laser_ablation.jpg  used on input line 47. on input li
+ne 47.
+Package pdftex.def Info: Requested size: 216.37332pt x 160.60059pt on input lin
+e 47.
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 41. on input line 41.
+Package pdftex.def Info: Logo_TSE.png  used on input line 47. on input line 47.
 
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-41.
+47.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 3/11[] 
+[]\T1/cmss/m/n/6 3/14[] 
  []
 
 [3
 
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 66.
+ <./laser_ablation.jpg>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 75.
 
 ("C:\Users\Sacha GRELET RIOUT\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfo
 nts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 66.
+LaTeX Font Info:    Try loading font information for U+msb on input line 75.
 
 ("C:\Users\Sacha GRELET RIOUT\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfo
 nts\umsb.fd"
@@ -1323,13 +1330,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 66. on input line 66.
+Package pdftex.def Info: Logo_TSE.png  used on input line 75. on input line 75.
 
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-66.
+75.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 4/11[] 
+[]\T1/cmss/m/n/6 4/14[] 
  []
 
 [4
@@ -1337,13 +1344,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 92. on input line 92.
+Package pdftex.def Info: Logo_TSE.png  used on input line 75. on input line 75.
 
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-92.
+75.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 5/11[] 
+[]\T1/cmss/m/n/6 4/14[] 
  []
 
 [5
@@ -1351,13 +1358,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 92. on input line 92.
+Package pdftex.def Info: Logo_TSE.png  used on input line 75. on input line 75.
 
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-92.
+75.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 5/11[] 
+[]\T1/cmss/m/n/6 4/14[] 
  []
 
 [6
@@ -1365,13 +1372,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 92. on input line 92.
-
+Package pdftex.def Info: Logo_TSE.png  used on input line 101. on input line 10
+1.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-92.
+101.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 5/11[] 
+[]\T1/cmss/m/n/6 5/14[] 
  []
 
 [7
@@ -1379,13 +1386,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 92. on input line 92.
-
+Package pdftex.def Info: Logo_TSE.png  used on input line 101. on input line 10
+1.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-92.
+101.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 5/11[] 
+[]\T1/cmss/m/n/6 5/14[] 
  []
 
 [8
@@ -1393,13 +1400,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 92. on input line 92.
-
+Package pdftex.def Info: Logo_TSE.png  used on input line 101. on input line 10
+1.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-92.
+101.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 5/11[] 
+[]\T1/cmss/m/n/6 5/14[] 
  []
 
 [9
@@ -1407,13 +1414,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 114. on input line 11
-4.
+Package pdftex.def Info: Logo_TSE.png  used on input line 101. on input line 10
+1.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-114.
+101.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 6/11[] 
+[]\T1/cmss/m/n/6 5/14[] 
  []
 
 [10
@@ -1421,13 +1428,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 114. on input line 11
-4.
+Package pdftex.def Info: Logo_TSE.png  used on input line 101. on input line 10
+1.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-114.
+101.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 6/11[] 
+[]\T1/cmss/m/n/6 5/14[] 
  []
 
 [11
@@ -1435,13 +1442,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 114. on input line 11
-4.
+Package pdftex.def Info: Logo_TSE.png  used on input line 123. on input line 12
+3.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-114.
+123.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 6/11[] 
+[]\T1/cmss/m/n/6 6/14[] 
  []
 
 [12
@@ -1449,13 +1456,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 114. on input line 11
-4.
+Package pdftex.def Info: Logo_TSE.png  used on input line 123. on input line 12
+3.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-114.
+123.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 6/11[] 
+[]\T1/cmss/m/n/6 6/14[] 
  []
 
 [13
@@ -1463,13 +1470,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 114. on input line 11
-4.
+Package pdftex.def Info: Logo_TSE.png  used on input line 123. on input line 12
+3.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-114.
+123.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 6/11[] 
+[]\T1/cmss/m/n/6 6/14[] 
  []
 
 [14
@@ -1477,13 +1484,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 114. on input line 11
-4.
+Package pdftex.def Info: Logo_TSE.png  used on input line 123. on input line 12
+3.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-114.
+123.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 6/11[] 
+[]\T1/cmss/m/n/6 6/14[] 
  []
 
 [15
@@ -1491,13 +1498,13 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 114. on input line 11
-4.
+Package pdftex.def Info: Logo_TSE.png  used on input line 123. on input line 12
+3.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-114.
+123.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 6/11[] 
+[]\T1/cmss/m/n/6 6/14[] 
  []
 
 [16
@@ -1505,99 +1512,207 @@ Overfull \hbox (14.08885pt too wide) has occurred while \output is active
 ]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 114. on input line 11
-4.
+Package pdftex.def Info: Logo_TSE.png  used on input line 123. on input line 12
+3.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-114.
+123.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 6/11[] 
+[]\T1/cmss/m/n/6 6/14[] 
  []
 
 [17
 
 ]
-<temperature_evolution_of_the_impact_point.png, id=320, 1925.1925pt x 937.5025p
-t>
-File: temperature_evolution_of_the_impact_point.png Graphic file (type png)
-<use temperature_evolution_of_the_impact_point.png>
-Package pdftex.def Info: temperature_evolution_of_the_impact_point.png  used on
- input line 126. on input line 126.
-Package pdftex.def Info: Requested size: 309.18275pt x 150.56305pt on input lin
-e 126.
-
-Overfull \hbox (1.89288pt too wide) in paragraph at lines 126--126
- [] 
- []
-
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 126. on input line 12
-6.
+Package pdftex.def Info: Logo_TSE.png  used on input line 123. on input line 12
+3.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-126.
+123.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 7/11[] 
+[]\T1/cmss/m/n/6 6/14[] 
  []
 
 [18
 
- <./temperature_evolution_of_the_impact_point.png>]
+]
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 130. on input line 13
-0.
+Package pdftex.def Info: Logo_TSE.png  used on input line 123. on input line 12
+3.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-130.
+123.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 8/11[] 
+[]\T1/cmss/m/n/6 6/14[] 
  []
 
 [19
 
 ]
+<temperature_evolution_of_the_impact_point.png, id=350, 1925.1925pt x 937.5025p
+t>
+File: temperature_evolution_of_the_impact_point.png Graphic file (type png)
+<use temperature_evolution_of_the_impact_point.png>
+Package pdftex.def Info: temperature_evolution_of_the_impact_point.png  used on
+ input line 136. on input line 136.
+Package pdftex.def Info: Requested size: 309.18275pt x 150.56305pt on input lin
+e 136.
+
+Overfull \hbox (1.89288pt too wide) in paragraph at lines 136--136
+ [] 
+ []
+
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 135. on input line 13
-5.
+Package pdftex.def Info: Logo_TSE.png  used on input line 136. on input line 13
+6.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-135.
+136.
 
 Overfull \hbox (14.08885pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 9/11[] 
+[]\T1/cmss/m/n/6 7/14[] 
  []
 
 [20
 
-]
+ <./temperature_evolution_of_the_impact_point.png>]
+<temperature_evolution_of_the_impact_point_2.png, id=364, 1028.34187pt x 490.08
+093pt>
+File: temperature_evolution_of_the_impact_point_2.png Graphic file (type png)
+<use temperature_evolution_of_the_impact_point_2.png>
+Package pdftex.def Info: temperature_evolution_of_the_impact_point_2.png  used 
+on input line 146. on input line 146.
+Package pdftex.def Info: Requested size: 336.9845pt x 160.60059pt on input line
+ 146.
+
+Overfull \hbox (29.69463pt too wide) in paragraph at lines 146--146
+ [] 
+ []
+
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 141. on input line 14
-1.
+Package pdftex.def Info: Logo_TSE.png  used on input line 146. on input line 14
+6.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-141.
+146.
 
-Overfull \hbox (17.61107pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 10/11[] 
+Overfull \hbox (14.08885pt too wide) has occurred while \output is active
+[]\T1/cmss/m/n/6 8/14[] 
  []
 
 [21
 
-]
+ <./temperature_evolution_of_the_impact_point_2.png (PNG copy)>]
+<dentine.png, id=379, 513.92pt x 410.53375pt>
+File: dentine.png Graphic file (type png)
+<use dentine.png>
+Package pdftex.def Info: dentine.png  used on input line 157. on input line 157
+.
+Package pdftex.def Info: Requested size: 201.03964pt x 160.60059pt on input lin
+e 157.
+
+Overfull \vbox (4.15604pt too high) detected at line 157
+ []
+
 File: Logo_TSE.png Graphic file (type png)
 <use Logo_TSE.png>
-Package pdftex.def Info: Logo_TSE.png  used on input line 147. on input line 14
+Package pdftex.def Info: Logo_TSE.png  used on input line 157. on input line 15
 7.
 Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
-147.
+157.
 
-Overfull \hbox (17.61107pt too wide) has occurred while \output is active
-[]\T1/cmss/m/n/6 11/11[] 
+Overfull \hbox (14.08885pt too wide) has occurred while \output is active
+[]\T1/cmss/m/n/6 9/14[] 
  []
 
 [22
+
+ <./dentine.png>]
+<cooling_system.png, id=391, 239.39438pt x 118.94438pt>
+File: cooling_system.png Graphic file (type png)
+<use cooling_system.png>
+Package pdftex.def Info: cooling_system.png  used on input line 168. on input l
+ine 168.
+Package pdftex.def Info: Requested size: 303.04851pt x 150.56305pt on input lin
+e 168.
+File: Logo_TSE.png Graphic file (type png)
+<use Logo_TSE.png>
+Package pdftex.def Info: Logo_TSE.png  used on input line 168. on input line 16
+8.
+Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
+168.
+
+Overfull \hbox (17.61107pt too wide) has occurred while \output is active
+[]\T1/cmss/m/n/6 10/14[] 
+ []
+
+[23
+
+ <./cooling_system.png>]
+<dentine_impacts.png, id=404, 280.04625pt x 317.68687pt>
+File: dentine_impacts.png Graphic file (type png)
+<use dentine_impacts.png>
+Package pdftex.def Info: dentine_impacts.png  used on input line 178. on input 
+line 178.
+Package pdftex.def Info: Requested size: 132.72849pt x 150.56305pt on input lin
+e 178.
+File: Logo_TSE.png Graphic file (type png)
+<use Logo_TSE.png>
+Package pdftex.def Info: Logo_TSE.png  used on input line 178. on input line 17
+8.
+Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
+178.
+
+Overfull \hbox (17.61107pt too wide) has occurred while \output is active
+[]\T1/cmss/m/n/6 11/14[] 
+ []
+
+[24
+
+ <./dentine_impacts.png>]
+File: Logo_TSE.png Graphic file (type png)
+<use Logo_TSE.png>
+Package pdftex.def Info: Logo_TSE.png  used on input line 190. on input line 19
+0.
+Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
+190.
+
+Overfull \hbox (17.61107pt too wide) has occurred while \output is active
+[]\T1/cmss/m/n/6 12/14[] 
+ []
+
+[25
+
+]
+File: Logo_TSE.png Graphic file (type png)
+<use Logo_TSE.png>
+Package pdftex.def Info: Logo_TSE.png  used on input line 196. on input line 19
+6.
+Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
+196.
+
+Overfull \hbox (17.61107pt too wide) has occurred while \output is active
+[]\T1/cmss/m/n/6 13/14[] 
+ []
+
+[26
+
+]
+File: Logo_TSE.png Graphic file (type png)
+<use Logo_TSE.png>
+Package pdftex.def Info: Logo_TSE.png  used on input line 205. on input line 20
+5.
+Package pdftex.def Info: Requested size: 14.22636pt x 17.45743pt on input line 
+205.
+
+Overfull \hbox (17.61107pt too wide) has occurred while \output is active
+[]\T1/cmss/m/n/6 14/14[] 
+ []
+
+[27
 
 ]
 \tf@nav=\write6
@@ -1609,46 +1724,49 @@ Overfull \hbox (17.61107pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `Talk_Optical_Processes.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
  (Talk_Optical_Processes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
 Package rerunfilecheck Info: File `Talk_Optical_Processes.out' has not changed.
 
-(rerunfilecheck)             Checksum: 0F3F7C2BCC51B8BAD91747182C78EEAE;564.
+(rerunfilecheck)             Checksum: 99CE4977C6F3F892BA1E4F932485753D;563.
  ) 
 Here is how much of TeX's memory you used:
- 18157 strings out of 493312
- 351464 string characters out of 3124171
+ 18214 strings out of 493312
+ 352450 string characters out of 3124171
  425086 words of memory out of 3000000
- 21214 multiletter control sequences out of 15000+200000
- 14799 words of font info for 41 fonts, out of 3000000 for 9000
+ 21252 multiletter control sequences out of 15000+200000
+ 17268 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,62p,808b,720s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Sacha GRELET RIOUT\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
 en\ec\dpi600\ecss2074.pk> <C:\Users\Sacha GRELET RIOUT\AppData\Local\MiKTeX\2.9
-\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\Sacha GRELET RIOUT\A
+\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C:\Users\Sacha GRELET RIOUT\A
 ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi1440.pk> <C:\Use
 rs\Sacha GRELET RIOUT\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\ecss0800.pk> <C:\Users\Sacha GRELET RIOUT\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\ecss1095.pk> <C:\Users\Sacha GRELET RIOUT\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\Sacha G
-RELET RIOUT\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss060
-0.pk><C:/Users/Sacha GRELET RIOUT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmex10.pfb><C:/Users/Sacha GRELET RIOUT/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Sacha GRELET
- RIOUT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.p
-fb><C:/Users/Sacha GRELET RIOUT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmmi8.pfb><C:/Users/Sacha GRELET RIOUT/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sacha GRELET RIO
-UT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C
-:/Users/Sacha GRELET RIOUT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><C:/Users/Sacha GRELET RIOUT/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Talk_Optical_Processes.pdf (22 pages, 318735 bytes).
+00\ecss1000.pk> <C:\Users\Sacha GRELET RIOUT\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\ecss0800.pk> <C:\Users\Sacha GRELET RIOUT\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk> <C:\Users\Sacha G
+RELET RIOUT\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss144
+0.pk> <C:\Users\Sacha GRELET RIOUT\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
+appen\ec\dpi600\ecss0600.pk><C:/Users/Sacha GRELET RIOUT/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Sacha GRELET RI
+OUT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/Users/Sacha GRELET RIOUT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb><C:/Users/Sacha GRELET RIOUT/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Sacha GRELET RIOUT
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:
+/Users/Sacha GRELET RIOUT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/Sacha GRELET RIOUT/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Sacha GRELET RIOUT/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users
+/Sacha GRELET RIOUT/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb>
+Output written on Talk_Optical_Processes.pdf (27 pages, 712153 bytes).
 PDF statistics:
- 623 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 179 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 744 PDF objects out of 1000 (max. 8388607)
+ 64 named destinations out of 1000 (max. 500000)
+ 204 words of extra memory for PDF output out of 10000 (max. 10000000)
 
